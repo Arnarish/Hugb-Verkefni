@@ -4,7 +4,9 @@
   "description": "Verkefni fyrir Hugb haust-2018",
   "main": "Greeting.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+	"clean" : "rm -rf node_modules",
+	"app" : "node app"
   },
   "repository": {
     "type": "git",
