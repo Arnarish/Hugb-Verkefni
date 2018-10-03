@@ -1,4 +1,4 @@
 //app.js
-const greeting = require('./Greeting');
+const greeting = require('./src/Greeting');
 
 console.log(greeting('Totoro'));
