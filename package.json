@@ -1,0 +1,22 @@
+{
+  "name": "hugb-verkefni",
+  "version": "1.0.0",
+  "description": "Verkefni fyrir Hugb haust-2018",
+  "main": "Greeting.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arnarish/Hugb-Verkefni.git"
+  },
+  "author": "Arnar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arnarish/Hugb-Verkefni/issues"
+  },
+  "homepage": "https://github.com/Arnarish/Hugb-Verkefni#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
